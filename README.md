@@ -15,3 +15,5 @@
 3. Type some random numbers and click calculate.
 
 My code better than urs haha
+
+> Oscar
